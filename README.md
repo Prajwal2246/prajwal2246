@@ -3,7 +3,7 @@
 Full-stack developer (TypeScript, React, Node.js, Go) based in Navi Mumbai, India.
 I contribute to open source developer tools, mostly [Fleet](https://github.com/fleetdm/fleet) and [Vitest](https://github.com/vitest-dev/vitest).
 
-**Open to remote roles.** Reach me at [prajwal3274@gmail.com](mailto:prajwal3274@gmail.com)
+**Open to remote roles.** Reach me at [prajwal3274@gmail.com](mailto:prajwal3274@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prajwaljanbandhu/)
 
 ---
 
