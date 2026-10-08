@@ -17,7 +17,7 @@ I contribute to open source developer tools, mostly [Fleet](https://github.com/f
 
 **[vitest-dev/vitest](https://github.com/vitest-dev/vitest)**: test framework for Vite
 - In review: [#11321](https://github.com/vitest-dev/vitest/pull/11321) `Temporal.Instant` / `Temporal.ZonedDateTime` support in `vi.setSystemTime()` and fake timers
-- Triage: reproducing bug reports on the latest release and pinning down root causes (e.g. [#10525](https://github.com/vitest-dev/vitest/issues/10525))
+- Triage: reproducing bug reports across versions and pinning down root causes. E.g. confirmed [#9034](https://github.com/vitest-dev/vitest/issues/9034) was fixed in v5 by tracing it to #10757, and the issue was closed; root-caused [#10525](https://github.com/vitest-dev/vitest/issues/10525) to a missing Proxy trap
 
 **[superserve-ai/superserve](https://github.com/superserve-ai/superserve)**: sandbox infrastructure for AI agents
 - [#356](https://github.com/superserve-ai/superserve/pull/356): pagination for MCP network logs
