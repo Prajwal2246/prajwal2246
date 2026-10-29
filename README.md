@@ -1,7 +1,7 @@
 ### Hi, I'm Prajwal 👋
 
-Full-stack developer (TypeScript, React, Node.js, Go) based in Navi Mumbai, India.
-I contribute to open source developer tools, mostly [Fleet](https://github.com/fleetdm/fleet) and [Vitest](https://github.com/vitest-dev/vitest).
+Associate Full Stack Developer at Envision Next LLP, based in Navi Mumbai, India.
+I work across TypeScript, React, and Node.js, and contribute fixes with regression tests to [Fleet](https://github.com/fleetdm/fleet), [Vitest](https://github.com/vitest-dev/vitest), and [Superserve](https://github.com/superserve-ai/superserve).
 
 **Open to remote roles.** Reach me at [prajwal3274@gmail.com](mailto:prajwal3274@gmail.com) · [LinkedIn](https://www.linkedin.com/in/prajwaljanbandhu/)
 
@@ -9,9 +9,12 @@ I contribute to open source developer tools, mostly [Fleet](https://github.com/f
 
 #### Open source
 
+**11 merged PRs** across Fleet, Vitest, and Superserve · [all PRs](https://github.com/search?q=author%3APrajwal2246+type%3Apr+is%3Apublic+-user%3APrajwal2246&type=pullrequests)
+
 **[fleetdm/fleet](https://github.com/fleetdm/fleet)**: device management and security for IT teams (Go + React)
-- Merged: [#55097](https://github.com/fleetdm/fleet/pull/55097) custom profile path and label validation · [#54726](https://github.com/fleetdm/fleet/pull/54726) Observer+ Run policy on Unassigned · [#54509](https://github.com/fleetdm/fleet/pull/54509) Live report tooltip for locked hosts
+- Merged: [#56498](https://github.com/fleetdm/fleet/pull/56498) stable Fleet-maintained app names across sort directions · [#55097](https://github.com/fleetdm/fleet/pull/55097) custom profile path and label validation in `fleetctl apply` · [#54726](https://github.com/fleetdm/fleet/pull/54726) Observer+ Run policy on Unassigned · [#54509](https://github.com/fleetdm/fleet/pull/54509) Live report tooltip for locked hosts
 - Merged: [#54411](https://github.com/fleetdm/fleet/pull/54411) return navigation from live reports and policies · [#54296](https://github.com/fleetdm/fleet/pull/54296) script timeout duration in run details · [#53810](https://github.com/fleetdm/fleet/pull/53810) distinguish script packages in software lists · [#53407](https://github.com/fleetdm/fleet/pull/53407) stop batch uploads after a package failure
+- In review: [#56423](https://github.com/fleetdm/fleet/pull/56423) use "fleet" instead of "team" in GitOps `install_software` errors
 
 **[vitest-dev/vitest](https://github.com/vitest-dev/vitest)**: test framework for Vite
 - Merged: [#11321](https://github.com/vitest-dev/vitest/pull/11321) `Temporal.Instant` / `Temporal.ZonedDateTime` support in `vi.setSystemTime()` and fake timers
