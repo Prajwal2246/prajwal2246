@@ -9,12 +9,12 @@ I work across TypeScript, React, and Node.js, and contribute fixes with regressi
 
 #### Open source
 
-**11 merged PRs** across Fleet, Vitest, and Superserve · [all PRs](https://github.com/search?q=author%3APrajwal2246+type%3Apr+is%3Apublic+-user%3APrajwal2246&type=pullrequests)
+**13 merged PRs** across Fleet, Vitest, and Superserve · [all PRs](https://github.com/search?q=author%3APrajwal2246+type%3Apr+is%3Apublic+-user%3APrajwal2246&type=pullrequests)
 
 **[fleetdm/fleet](https://github.com/fleetdm/fleet)**: device management and security for IT teams (Go + React)
-- Merged: [#56498](https://github.com/fleetdm/fleet/pull/56498) stable Fleet-maintained app names across sort directions · [#55097](https://github.com/fleetdm/fleet/pull/55097) custom profile path and label validation in `fleetctl apply` · [#54726](https://github.com/fleetdm/fleet/pull/54726) Observer+ Run policy on Unassigned · [#54509](https://github.com/fleetdm/fleet/pull/54509) Live report tooltip for locked hosts
-- Merged: [#54411](https://github.com/fleetdm/fleet/pull/54411) return navigation from live reports and policies · [#54296](https://github.com/fleetdm/fleet/pull/54296) script timeout duration in run details · [#53810](https://github.com/fleetdm/fleet/pull/53810) distinguish script packages in software lists · [#53407](https://github.com/fleetdm/fleet/pull/53407) stop batch uploads after a package failure
-- In review: [#56423](https://github.com/fleetdm/fleet/pull/56423) use "fleet" instead of "team" in GitOps `install_software` errors
+- Merged: [#57496](https://github.com/fleetdm/fleet/pull/57496) ignore platform suffix when searching Fleet-maintained apps · [#56423](https://github.com/fleetdm/fleet/pull/56423) use "fleet" instead of "team" in GitOps `install_software` errors · [#56498](https://github.com/fleetdm/fleet/pull/56498) stable Fleet-maintained app names across sort directions · [#55097](https://github.com/fleetdm/fleet/pull/55097) custom profile path and label validation in `fleetctl apply` · [#54726](https://github.com/fleetdm/fleet/pull/54726) Observer+ Run policy on Unassigned
+- Merged: [#54509](https://github.com/fleetdm/fleet/pull/54509) Live report tooltip for locked hosts · [#54411](https://github.com/fleetdm/fleet/pull/54411) return navigation from live reports and policies · [#54296](https://github.com/fleetdm/fleet/pull/54296) script timeout duration in run details · [#53810](https://github.com/fleetdm/fleet/pull/53810) distinguish script packages in software lists · [#53407](https://github.com/fleetdm/fleet/pull/53407) stop batch uploads after a package failure
+- In review: [#57871](https://github.com/fleetdm/fleet/pull/57871) use "fleet" instead of "team" in remaining GitOps errors
 
 **[vitest-dev/vitest](https://github.com/vitest-dev/vitest)**: test framework for Vite
 - Merged: [#11321](https://github.com/vitest-dev/vitest/pull/11321) `Temporal.Instant` / `Temporal.ZonedDateTime` support in `vi.setSystemTime()` and fake timers
